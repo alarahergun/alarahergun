@@ -6,4 +6,4 @@ If you want to reach me, you can contact me via my Linkedin profile or my email 
 
 ![Alara's github stats](https://github-readme-stats.vercel.app/api?username=alarahergun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-      
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wissenschaftlerin&color=00cf00)

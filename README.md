@@ -1,6 +1,6 @@
 ### Hi there!
 
-I am a newly graduated applied maths student from  Yildiz Technical University who is now pursuing a double major in computer engineering. I am mostly interested in Software Development and Cloud Computing. At the moment, I am working as a part time software developer in a team focused on Microservices and Cloud Computing. My goals are to increase my capabilities in Backend Development, DevOps and Cloud Computing.
+I am an applied maths & computer science double major who is mostly interested in Software Development and Cloud Computing. At the moment, I am working as a part time software developer in a team focused on Microservices, Cloud Native architecture and Cloud Computing. My goal is to increase my capabilities in Backend Development, DevOps and Cloud Computing.
 
 If you want to reach me, you can contact me via my Linkedin profile or my email (alarackck [at] gmail [dot] com). 
 
